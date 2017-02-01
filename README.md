@@ -1,7 +1,9 @@
 ##必读
 ![赫本](http://i.imgur.com/eENJTVa.jpg)
 - 推荐《如何阅读一本书》
+
 ###阅读方法###
+
 [01  检视阅读](readskill.md)
 
 [02 分析阅读](readskillone.md)
