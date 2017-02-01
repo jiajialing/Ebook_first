@@ -2,12 +2,12 @@
 ![赫本](http://i.imgur.com/eENJTVa.jpg)
 - 推荐《如何阅读一本书》
 ###阅读方法###
-- 检视阅读
+[01  检视阅读](readskill.md)
 
-- 张五常阅读法
+[02 分析阅读](readskillone.md)
 
-- 分析阅读
-  
-- 主题阅读
+[03 主题阅读](readskilltwo.md)
+
+[04 案例](readskillthree.md)
 
 以上阅读方法,将会具体的介绍。
